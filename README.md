@@ -26,10 +26,8 @@
 
 <br/>
 
-<a href="https://github.com/HJFallen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HJFallen&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJFallen&theme=buefy&layout=compact" />
-</a>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HJFallen&theme=buefy&show_icons=true" />
+ <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJFallen&theme=buefy&layout=compact" />-->
 
 <br/>
 
